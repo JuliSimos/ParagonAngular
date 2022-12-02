@@ -53,7 +53,8 @@ export class LibrosDataService {
       guardado: false,
     },
     {
-      portada: 'https://raw.githubusercontent.com/JuliSimos/ParagonAngular/main/src/assets/img/nuncaDejesDeSoñar.jpg',
+      portada:
+        'https://raw.githubusercontent.com/JuliSimos/ParagonAngular/main/src/assets/img/nuncaDejesDeSoñar.jpg',
       titulo: 'Nunca dejes de soñar',
       genero: 'Narrativa',
       descripcion:
