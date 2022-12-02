@@ -1,0 +1,15 @@
+.estanteria-container{
+    margin-left: auto;
+    text-align: end;
+    padding-top: 10%;
+    border-right: 0.2px solid gray;
+}
+.texto-vertical{
+    writing-mode: vertical-rl;
+    transform: rotate(360deg);
+    text-align:start;
+    margin-top: 50px;
+}
+h3{
+    user-select: none;
+}

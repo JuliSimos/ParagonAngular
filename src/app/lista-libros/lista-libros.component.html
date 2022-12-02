@@ -1,0 +1,5 @@
+<div class="d-flex container">
+    <div *ngFor="let elem of libros; let i = index" >
+        <app-card-product [(libro)]="libros[i]"></app-card-product>
+    </div>
+</div>
